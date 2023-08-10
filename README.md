@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there!
+
+- 👨🏽‍💻 My name is Guilherme
+- 🇧🇷 I'm a student from Brazil
+- 🤓 I'm especially exicted about web development
+- 📱 Currently, I'm tinkering on a couple of projects in JS
 
 <!--
 **guilhermechaves0/guilhermechaves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
