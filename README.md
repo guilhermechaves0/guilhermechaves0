@@ -3,7 +3,7 @@
 - 👨🏽‍💻 My name is Guilherme
 - 🇧🇷 I'm a student from Brazil
 - 🤓 I'm especially exicted about web development
-- 📱 Currently, I'm tinkering on a couple of projects in JS
+- 📱 Currently, I'm tinkering on a couple of projects in JS with React and Node
 
 <!--
 **guilhermechaves0/guilhermechaves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
